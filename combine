@@ -1,0 +1,16 @@
+#光速云 https://136900.xyz/link/d5C90Za11MvLEzAY?clash=1&log-level=info
+#白月光 https://nhdufi497g.cn88.net/api/v1/client/subscribe?token=07d206c7519f3436e7b30eff2dd70f97
+proxies:
+  - {"name":"bgp台湾01 1倍 动画疯NF Bli 三网入口","type":"vmess","server":"g3.136912.xyz","port":60763,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"g3.136912.xyz"}}
+  - {"name":"bgp新加坡01域名改回 -- gs1024.com -----","type":"vmess","server":"g3.136912.xyz","port":60765,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":8,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"g3.136912.xyz"}}
+  - {"name":"bgp新加坡02 1倍 三网入口","type":"vmess","server":"g3.136912.xyz","port":60766,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":8,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"g3.136912.xyz"}}
+  - {"name":"bgp香港01 1倍 【晚高峰】","type":"vmess","server":"g3.136912.xyz","port":60771,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":8,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"g3.136912.xyz"}}
+  - {"name":"cmi香港01 1倍 电移入口","type":"vmess","server":"g1.136912.xyz","port":60761,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"g1.136912.xyz"}}
+  - {"name":"cmi香港02 1倍 三网入口","type":"vmess","server":"g1.136912.xyz","port":60198,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"g1.136912.xyz"}}
+  - {"name":"IPLC 深港 10倍  三网入口","type":"vmess","server":"g3.136912.xyz","port":60767,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":8,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"g3.136912.xyz"}}
+  - {"name":"印度 5倍 购买游戏专用","type":"vmess","server":"g1.136912.xyz","port":60298,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"g1.136912.xyz"}}
+  - {"name":"德国 原生IP 2倍率 ","type":"vmess","server":"g1.136912.xyz","port":60332,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"g1.136912.xyz"}}
+  - {"name":"日本c01 1倍 救急节点 三网入口","type":"vmess","server":"g3.136912.xyz","port":60769,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":8,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"g3.136912.xyz"}}
+  - {"name":"日本c02 1倍 原生IP 日区NF 三网入口","type":"vmess","server":"jp.136912.xyz","port":60935,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"jp.136912.xyz"}}
+  - {"name":"美国01 1倍  原生IP 推特专用 电联入口","type":"vmess","server":"l.136912.xyz","port":60770,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"l.136912.xyz"}}
+  - {"name":"美国02 1倍 原生IP 谷歌学术","type":"vmess","server":"us.136912.xyz","port":60286,"uuid":"637fc220-cc14-3b5a-9764-6b1d0a3229eb","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"us.136912.xyz"}}
