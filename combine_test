@@ -619,7 +619,6 @@ proxy-groups:
       - "[SS] 🇺🇸 江门 - 美国03【SS】"
       - "[SS] 🇻🇳 江门 - 越南01（流媒体解锁）【SS】「2x」"
 rules:
- - PROCESS-NAME,nodesCatch,DIRECT
  - DOMAIN-SUFFIX,local,DIRECT
  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
