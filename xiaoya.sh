@@ -71,5 +71,5 @@ docker stop xiaoya
 docker rm xiaoya
 docker rmi xiaoyaliu/alist:latest registry.hub.docker.com/xiaoyaliu/alist:latest
 docker pull xiaoyaliu/alist:latest
-docker run -d -p 5678:8080 -p 5244:5244 -v /etc/xiaoya:/data --restart=always --name=xiaoya xiaoyaliu/alist:latest
+docker run -d -p 5678:80 -p 5244:5244 -v /etc/xiaoya:/data --restart=always --name=xiaoya xiaoyaliu/alist:latest
 
